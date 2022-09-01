@@ -1,0 +1,14 @@
+.card {
+    border-color: grey;
+    border-width: 1px;
+    border-style: solid;
+    border-radius: 5px;
+    height: 200px;
+    margin: 10px;
+    padding: 10px;
+    min-width: 150px;
+}
+
+#deck {
+    display: flex;
+}
